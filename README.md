@@ -8,10 +8,10 @@
 
 ### More About Me...
 + 😄 Pronouns: He/Him but i'll answer to just about anything
-+ 🔭 I’m currently working on... anything
++ 🔭 I’m currently working on... 
   - an animal crossing companion web site called <a href="https://master.d3u1c7xm8qrvaq.amplifyapp.com/">AmooXing</a> (React and Node)
+  - look out for a project called "Shout Into The Void" coming soon (ReactNative front end and GraphQL/AppSync/Dynamo w/ Lambda on the backend)
 + 🌱 I’m currently learning AWS and Audio streaming/subscriptions with websockets
-  - look out for a project called "Shout Into The Void" coming soon
 + 💬 Ask me about anything! I want to help
 
 *****
