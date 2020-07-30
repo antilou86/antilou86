@@ -1,6 +1,6 @@
 <h1> Hi, I'm Lou! <img src="https://media.giphy.com/media/6NIC5qDsDC5uE/giphy.gif" width="50"></h1>
 <img align='right' src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="230">
-<p><em>Fullstack Developer Graduate from <a href="https://lambdaschool.com/">Lambda School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"/></em></p>
+<p><em>Fullstack Developer <br/>Graduate from <a href="https://lambdaschool.com/">Lambda School</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"/></em></p>
 
 [![Twitter: antilou86](https://img.shields.io/twitter/follow/antilou86?style=social)](https://twitter.com/antilou86) <br/>
 [![Linkedin: lou-guzman](https://img.shields.io/badge/-louGuzman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lou-guzman/)](https://www.linkedin.com/in/lou-guzman/) <br/>
