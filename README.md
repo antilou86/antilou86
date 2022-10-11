@@ -1,9 +1,7 @@
 <h1> Hi, I'm Lou! <img src="https://media.giphy.com/media/6NIC5qDsDC5uE/giphy.gif" width="50"></h1>
-<img align='right' src="https://media.giphy.com/media/d9IfL7seBexHLct75B/giphy.gif" width="230">
+<img align='right' src="https://media0.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif?cid=ecf05e47pm1tp4aa54qabhdb4hx5k8jiw0kwhjrjfjwl410p&rid=giphy.gif&ct=g" width="230">
 <p><em>Fullstack Developer / Software Engineer <br/>Graduate from <a href="https://lambdaschool.com/">BloomTech(FKA Lambda School)</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="50"/><br/></em></p>
-Previously an apprentice at Microsoft LEAP<br/>
-Now a Software Engineer at Microsoft</em></p>
-
+Software Engineer at Microsoft</em></p>
 
 [![Twitter: antilou86](https://img.shields.io/twitter/follow/antilou86?style=social)](https://twitter.com/antilou86) <br/>
 [![Linkedin: lou-guzman](https://img.shields.io/badge/-louGuzman-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lou-guzman/)](https://www.linkedin.com/in/lou-guzman/) <br/>
